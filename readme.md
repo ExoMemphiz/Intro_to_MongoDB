@@ -17,6 +17,7 @@ All the functions are defined inside the mongoDB.ts file, and are placed in orde
 
 - Clone Repository
 - Ensure NodeJS is installed and working on system
+- Install the dependencies by running: `npm i`
 - Ensure TypeScript is globally installed through npm: `npm i -g typescript`
 - Open 1 terminal in root directory of the project, then run `tsc -w` (Leave it open the whole time)
 - Open another terminal and run the command: `npm start`
